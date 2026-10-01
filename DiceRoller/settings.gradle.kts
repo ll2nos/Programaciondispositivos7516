@@ -1,3 +1,4 @@
+// configuracion de repositorios y nombre del proyecto
 pluginManagement {
     repositories {
         google {
@@ -24,4 +25,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Dice Roller"
 include(":app")
- 

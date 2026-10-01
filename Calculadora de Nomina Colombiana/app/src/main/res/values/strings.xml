@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculadora de Nómina</string>
+    <string name="salario_basico">Salario básico mensual</string>
+    <string name="horas_extra_diurnas">Horas extra diurnas</string>
+    <string name="horas_extra_nocturnas">Horas extra nocturnas</string>
+    <string name="horas_dominicales">Horas extra en domingo o festivo</string>
+    <string name="transporte_empresa">La empresa suministra el transporte</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+
+    <string name="resultado_titulo">Desglose de Nómina</string>
+    <string name="valor_hora_ordinaria">Valor hora ordinaria</string>
+    <string name="salario_basico_label">Salario básico</string>
+    <string name="horas_extra_label">Horas extra</string>
+    <string name="auxilio_transporte_label">Auxilio de transporte</string>
+    <string name="total_devengado_label">Total devengado</string>
+    <string name="salud_label">Salud (4 %)</string>
+    <string name="pension_label">Pensión (4 %)</string>
+    <string name="fondo_solidaridad_label">Fondo de Solidaridad Pensional (1 %)</string>
+    <string name="total_deducciones_label">Total deducciones</string>
+    <string name="salario_neto_label">Salario neto a recibir</string>
+    <string name="equivalencia_smmlv">Equivale a %s SMMLV</string>
+
+    <string name="rango_1_desc">Rango 1: Salario &lt;= 2 SMMLV (Con derecho a auxilio de transporte)</string>
+    <string name="rango_2_desc">Rango 2: Salario entre 2 y 4 SMMLV (Sin auxilio de transporte ni Fondo de Solidaridad)</string>
+    <string name="rango_3_desc">Rango 3: Salario &gt;= 4 SMMLV (Aporta al Fondo de Solidaridad Pensional)</string>
+
+    <string name="content_desc_rango_1">Icono de Rango 1</string>
+    <string name="content_desc_rango_2">Icono de Rango 2</string>
+    <string name="content_desc_rango_3">Icono de Rango 3</string>
+
+    <string name="error_salario_invalido">Ingrese un salario válido</string>
+    <string name="error_salario_minimo">El salario no puede ser inferior al mínimo ($ 1.750.905)</string>
+    <string name="error_horas_negativas">Las horas extra deben ser un número mayor o igual a cero</string>
+    <string name="error_max_horas">El total de horas extra no puede superar 48 en el mes</string>
+</resources>

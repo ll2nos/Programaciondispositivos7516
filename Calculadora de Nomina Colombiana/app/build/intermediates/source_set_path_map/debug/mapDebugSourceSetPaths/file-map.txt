@@ -1,0 +1,50 @@
+com.sebastianllano.calculadoranomina.app-profileinstaller-1.3.1-0 C:\Users\ll4nos\.gradle\caches\8.13\transforms\0169c3990492a23cd7a13d608021ff99\transformed\profileinstaller-1.3.1\res
+com.sebastianllano.calculadoranomina.app-ui-geometry-release-1 C:\Users\ll4nos\.gradle\caches\8.13\transforms\0b1c5e367142c283faf0be99698697de\transformed\ui-geometry-release\res
+com.sebastianllano.calculadoranomina.app-emoji2-1.3.0-2 C:\Users\ll4nos\.gradle\caches\8.13\transforms\0bc00d9897f1adafac2448125f134019\transformed\emoji2-1.3.0\res
+com.sebastianllano.calculadoranomina.app-lifecycle-viewmodel-ktx-2.8.7-3 C:\Users\ll4nos\.gradle\caches\8.13\transforms\0d4bccebb297da0f543d5f083c9c5741\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.sebastianllano.calculadoranomina.app-graphics-path-1.0.1-4 C:\Users\ll4nos\.gradle\caches\8.13\transforms\0deb265bd20d58cecbf42b788a61480d\transformed\graphics-path-1.0.1\res
+com.sebastianllano.calculadoranomina.app-material-ripple-release-5 C:\Users\ll4nos\.gradle\caches\8.13\transforms\103eeeed6bf0dc158d3b7bc27ca132c1\transformed\material-ripple-release\res
+com.sebastianllano.calculadoranomina.app-animation-release-6 C:\Users\ll4nos\.gradle\caches\8.13\transforms\11e66abde37ace0f7691f122408c1b69\transformed\animation-release\res
+com.sebastianllano.calculadoranomina.app-customview-poolingcontainer-1.0.0-7 C:\Users\ll4nos\.gradle\caches\8.13\transforms\1a44778660d111ec56a3222b71b7c354\transformed\customview-poolingcontainer-1.0.0\res
+com.sebastianllano.calculadoranomina.app-annotation-experimental-1.4.1-8 C:\Users\ll4nos\.gradle\caches\8.13\transforms\1df1c439a0efe7607fb1c9d29d4cab30\transformed\annotation-experimental-1.4.1\res
+com.sebastianllano.calculadoranomina.app-foundation-release-9 C:\Users\ll4nos\.gradle\caches\8.13\transforms\27b616676425b9daa34f21a994e0e861\transformed\foundation-release\res
+com.sebastianllano.calculadoranomina.app-ui-graphics-release-10 C:\Users\ll4nos\.gradle\caches\8.13\transforms\2aa4fc4a165bc4c39f549ff3055d51c1\transformed\ui-graphics-release\res
+com.sebastianllano.calculadoranomina.app-lifecycle-livedata-core-2.8.7-11 C:\Users\ll4nos\.gradle\caches\8.13\transforms\2cf1f776d72ce63da658b6fbb569b388\transformed\lifecycle-livedata-core-2.8.7\res
+com.sebastianllano.calculadoranomina.app-ui-text-release-12 C:\Users\ll4nos\.gradle\caches\8.13\transforms\2e342f735de6aa62c037f245dbd770d1\transformed\ui-text-release\res
+com.sebastianllano.calculadoranomina.app-lifecycle-viewmodel-release-13 C:\Users\ll4nos\.gradle\caches\8.13\transforms\3a7cef4014e939d2a84430c6244ffec8\transformed\lifecycle-viewmodel-release\res
+com.sebastianllano.calculadoranomina.app-foundation-layout-release-14 C:\Users\ll4nos\.gradle\caches\8.13\transforms\41ca3833e1a10270a21a4fa5f76eeed6\transformed\foundation-layout-release\res
+com.sebastianllano.calculadoranomina.app-lifecycle-runtime-ktx-release-15 C:\Users\ll4nos\.gradle\caches\8.13\transforms\529703b76eb0d5e85e29ddeac23d769c\transformed\lifecycle-runtime-ktx-release\res
+com.sebastianllano.calculadoranomina.app-ui-tooling-release-16 C:\Users\ll4nos\.gradle\caches\8.13\transforms\674c2c1284e2480a20c523cefdc28ea5\transformed\ui-tooling-release\res
+com.sebastianllano.calculadoranomina.app-tracing-1.2.0-17 C:\Users\ll4nos\.gradle\caches\8.13\transforms\68a638ec3d57cadbc70f8aba83bca75c\transformed\tracing-1.2.0\res
+com.sebastianllano.calculadoranomina.app-ui-release-18 C:\Users\ll4nos\.gradle\caches\8.13\transforms\6dd1270e3791aab7de0e6663d62b726d\transformed\ui-release\res
+com.sebastianllano.calculadoranomina.app-savedstate-1.2.1-19 C:\Users\ll4nos\.gradle\caches\8.13\transforms\74a26faad289c9740f2ab8c30ef3a4ff\transformed\savedstate-1.2.1\res
+com.sebastianllano.calculadoranomina.app-runtime-release-20 C:\Users\ll4nos\.gradle\caches\8.13\transforms\78a2d7122b60f6286637b5322e1cb330\transformed\runtime-release\res
+com.sebastianllano.calculadoranomina.app-lifecycle-runtime-compose-release-21 C:\Users\ll4nos\.gradle\caches\8.13\transforms\7949f5c85870aeec574e368de53741bb\transformed\lifecycle-runtime-compose-release\res
+com.sebastianllano.calculadoranomina.app-core-1.15.0-22 C:\Users\ll4nos\.gradle\caches\8.13\transforms\883a25829dd8c358b42385a7cd792e5b\transformed\core-1.15.0\res
+com.sebastianllano.calculadoranomina.app-activity-1.9.3-23 C:\Users\ll4nos\.gradle\caches\8.13\transforms\975d745b0aade2358e49eb08b1f677ec\transformed\activity-1.9.3\res
+com.sebastianllano.calculadoranomina.app-lifecycle-viewmodel-savedstate-2.8.7-24 C:\Users\ll4nos\.gradle\caches\8.13\transforms\a3136622500e51e3a77a8f71fed8b0d3\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.sebastianllano.calculadoranomina.app-material3-release-25 C:\Users\ll4nos\.gradle\caches\8.13\transforms\a880103af4ab9ee4b53ab3162cd966f4\transformed\material3-release\res
+com.sebastianllano.calculadoranomina.app-ui-util-release-26 C:\Users\ll4nos\.gradle\caches\8.13\transforms\af1926c9953e4c67a601e56a6714917c\transformed\ui-util-release\res
+com.sebastianllano.calculadoranomina.app-startup-runtime-1.1.1-27 C:\Users\ll4nos\.gradle\caches\8.13\transforms\b86209ac3a53cf10aafb3954ef3723e2\transformed\startup-runtime-1.1.1\res
+com.sebastianllano.calculadoranomina.app-activity-ktx-1.9.3-28 C:\Users\ll4nos\.gradle\caches\8.13\transforms\b97250e40607f04656a293f535561ba1\transformed\activity-ktx-1.9.3\res
+com.sebastianllano.calculadoranomina.app-ui-tooling-data-release-29 C:\Users\ll4nos\.gradle\caches\8.13\transforms\ba62511f3a28290e6524e6c1f622eaff\transformed\ui-tooling-data-release\res
+com.sebastianllano.calculadoranomina.app-ui-tooling-preview-release-30 C:\Users\ll4nos\.gradle\caches\8.13\transforms\bb213afbbc09f87f4daa721fefbdf961\transformed\ui-tooling-preview-release\res
+com.sebastianllano.calculadoranomina.app-lifecycle-runtime-release-31 C:\Users\ll4nos\.gradle\caches\8.13\transforms\bd5ed7f721e247c513a9a08be848b0b5\transformed\lifecycle-runtime-release\res
+com.sebastianllano.calculadoranomina.app-material-icons-core-release-32 C:\Users\ll4nos\.gradle\caches\8.13\transforms\c37f37f9cc200f355cc3d8928a42686a\transformed\material-icons-core-release\res
+com.sebastianllano.calculadoranomina.app-savedstate-ktx-1.2.1-33 C:\Users\ll4nos\.gradle\caches\8.13\transforms\c44f447b5e7bb3f636923e6c01ac2908\transformed\savedstate-ktx-1.2.1\res
+com.sebastianllano.calculadoranomina.app-material-release-34 C:\Users\ll4nos\.gradle\caches\8.13\transforms\c543c088cbfc9ddf74bd8a9c3385c498\transformed\material-release\res
+com.sebastianllano.calculadoranomina.app-ui-unit-release-35 C:\Users\ll4nos\.gradle\caches\8.13\transforms\ca807f82139274b53e838396f7a0cebc\transformed\ui-unit-release\res
+com.sebastianllano.calculadoranomina.app-animation-core-release-36 C:\Users\ll4nos\.gradle\caches\8.13\transforms\d3b5e66b61bd2029a357140c2c7ba006\transformed\animation-core-release\res
+com.sebastianllano.calculadoranomina.app-lifecycle-process-2.8.7-37 C:\Users\ll4nos\.gradle\caches\8.13\transforms\d41c15304ad51b0244918d7400332495\transformed\lifecycle-process-2.8.7\res
+com.sebastianllano.calculadoranomina.app-core-ktx-1.15.0-38 C:\Users\ll4nos\.gradle\caches\8.13\transforms\dbb380532eaa9629b534d4573b8caa52\transformed\core-ktx-1.15.0\res
+com.sebastianllano.calculadoranomina.app-core-runtime-2.2.0-39 C:\Users\ll4nos\.gradle\caches\8.13\transforms\df49c494690efa54538d975ab85b838a\transformed\core-runtime-2.2.0\res
+com.sebastianllano.calculadoranomina.app-runtime-saveable-release-40 C:\Users\ll4nos\.gradle\caches\8.13\transforms\e76098a4e19bfd8afcbc01beba201644\transformed\runtime-saveable-release\res
+com.sebastianllano.calculadoranomina.app-activity-compose-1.9.3-41 C:\Users\ll4nos\.gradle\caches\8.13\transforms\f224a6913724f9965c985006d0fcee98\transformed\activity-compose-1.9.3\res
+com.sebastianllano.calculadoranomina.app-ui-test-manifest-1.7.6-42 C:\Users\ll4nos\.gradle\caches\8.13\transforms\f4977b72c5df48d6a80a1ae99825d401\transformed\ui-test-manifest-1.7.6\res
+com.sebastianllano.calculadoranomina.app-resValues-43 C:\Users\ll4nos\Desktop\PROYECTO\Calculadora de Nomina Colombiana\app\build\generated\res\resValues\debug
+com.sebastianllano.calculadoranomina.app-updated_navigation_xml-44 C:\Users\ll4nos\Desktop\PROYECTO\Calculadora de Nomina Colombiana\app\build\generated\updated_navigation_xml\debug
+com.sebastianllano.calculadoranomina.app-packageDebugResources-45 C:\Users\ll4nos\Desktop\PROYECTO\Calculadora de Nomina Colombiana\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.sebastianllano.calculadoranomina.app-packageDebugResources-46 C:\Users\ll4nos\Desktop\PROYECTO\Calculadora de Nomina Colombiana\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.sebastianllano.calculadoranomina.app-debug-47 C:\Users\ll4nos\Desktop\PROYECTO\Calculadora de Nomina Colombiana\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.sebastianllano.calculadoranomina.app-debug-48 C:\Users\ll4nos\Desktop\PROYECTO\Calculadora de Nomina Colombiana\app\src\debug\res
+com.sebastianllano.calculadoranomina.app-main-49 C:\Users\ll4nos\Desktop\PROYECTO\Calculadora de Nomina Colombiana\app\src\main\res
